@@ -1,8 +1,8 @@
 //
 //  SecondEntry.cpp
 //  CourseraProjects White Belt Week1
-//  Created by Ruslan on 15/12/2018.
-//  Copyright © 2018 Ruslan. All rights reserved.
+//  Created by Ruslan Sitdikov on 15/12/2018.
+//  Copyright © 2018 Ruslan Sitdikov. All rights reserved.
 //
 
 #include <iostream>
