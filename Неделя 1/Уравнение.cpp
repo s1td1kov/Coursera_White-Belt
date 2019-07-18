@@ -1,10 +1,3 @@
-//
-//  Equation.cpp
-//  CourseraProjects White Belt Week1
-//  Created by Ruslan Sitdikov on 15/12/2018.
-//  Copyright © 2018 Ruslan Sitdikov. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 #include <cmath>
