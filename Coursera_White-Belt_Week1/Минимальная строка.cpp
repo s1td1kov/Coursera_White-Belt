@@ -1,10 +1,3 @@
-//
-//  MinimalString.cpp
-//  CourseraProjects White Belt
-//  Created by Ruslan Sitdikov on 15/12/2018.
-//  Copyright © 2018 Ruslan Sitdikov. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 
