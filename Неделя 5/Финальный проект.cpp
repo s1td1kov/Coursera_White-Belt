@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Coursera-White-Belt
-//
-//  Created by Руслан on 19/07/2019.
-//  Copyright © 2019 Ruslan Sitdikov. All rights reserved.
-//
-
 #include <iostream>
 #include <exception>
 #include <string>
